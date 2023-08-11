@@ -97,6 +97,17 @@ p {
     letter-spacing: 1px;
 }
 
+.button-learn-more:hover {
+    background-color: #6FBF44;
+    color: #FFF;
+    border-radius: 15px;
+    opacity: .7;
+}
+
+.button-learn-more:active {
+    opacity: .4;
+}
+
 @media screen and (max-width: 900px) {
 
     header {
