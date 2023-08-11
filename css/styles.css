@@ -42,6 +42,14 @@ header {
     letter-spacing: 1px;
 }
 
+.button-sign-up:hover {
+    opacity: .8;
+}
+
+.button-sign-up:active {
+    opacity: .4;
+}
+
 .container-left {
     display: inline-block;
     width: 50%;
